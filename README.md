@@ -1,4 +1,4 @@
-# Election Data Analysis Dashboard
+# Election Data Analysis 
 
 ## Problem Statement
 India's election data, comprising millions of votes across states and numerous political parties, is vast and multifaceted. The challenge lies in transforming this data into actionable insights for policymakers, analysts, and the public. The objective was to design an intuitive, interactive Power BI dashboard to visualize voting patterns, state-wise results, party-wise performance, and overall election trends. This dashboard aims to empower stakeholders with data-driven insights, fostering transparency and enhancing strategic decision-making.
